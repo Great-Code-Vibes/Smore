@@ -1,0 +1,22 @@
+# Core dependencies
+numpy>=1.22.0
+ecdsa>=0.18.0
+base58>=2.1.1
+requests>=2.28.1
+pybloom-live>=4.0.0
+pathlib>=1.0.1
+
+# GPU acceleration
+pyopencl>=2023.1
+numba>=0.56.4
+
+# UI - customtkinter
+customtkinter>=5.2.0
+pillow>=9.4.0
+
+# UI - PyQt (optional high-performance alternative)
+PyQt6>=6.4.0  # or PyQt5>=5.15.7
+
+# Additional utilities
+pyperclip>=1.8.2
+python-dateutil>=2.8.2 

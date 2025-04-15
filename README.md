@@ -1,6 +1,6 @@
 # Smore: Advanced Bitcoin Wallet Brute-Force Tool
 
-![Smore Banner]([https://i.imgur.com/C0Ch2nM.png]
+![Smore Banner](https://i.imgur.com/C0Ch2nM.png)
 
 <div align="center">
   
@@ -39,13 +39,13 @@ A high-performance Bitcoin wallet brute-force tool designed for red team operati
 ## Screenshots
 
 <div align="center">
-  <img src="https://imgur.com/a/Hki9Zxz" width="800px" />
-  <p><i>Smore Dashboard with Real-time Monitoring</i></p>
+  <img src="https://i.imgur.com/gb3CKu2.png" width="800px" />
+  <p><i>Smore Dashboard with CustomTkinter UI</i></p>
   
   <br />
   
-  <img src="https://imgur.com/a/xq5sIqA" width="800px" />
-  <p><i>Optimized Smore Dashboard</i></p>
+  <img src="https://i.imgur.com/xq5sIqA.jpg" width="800px" />
+  <p><i>High-Performance PyQt Interface</i></p>
 </div>
 
 ## Requirements
