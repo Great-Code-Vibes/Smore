@@ -1,6 +1,6 @@
 # Smore: Advanced Bitcoin Wallet Brute-Force Tool
 
-![Smore Banner]([https://via.placeholder.com/1200x300/0d1117/ffffff?text=Smore+-+Bitcoin+Wallet+Bruteforce+Tool](https://imgur.com/a/vOr2d0s))
+![Smore Banner]([https://i.imgur.com/C0Ch2nM.png]
 
 <div align="center">
   
